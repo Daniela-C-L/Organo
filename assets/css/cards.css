@@ -1,0 +1,32 @@
+.card {
+    padding: 3rem;
+    border-radius: 15px;
+    height: 90%;
+    box-shadow: 3px 5px 8px rgb(84, 84, 84);
+    background-image: linear-gradient(to top, white 60%, #5cd85c 40%);
+}
+
+.card1{
+
+    background-image: linear-gradient(to top, white 60%, #0275d8 40%);
+}
+
+.card2{
+
+    background-image: linear-gradient(to top, white 60%, #d8d402 40%);
+}
+
+.card3{
+
+    background-image: linear-gradient(to top, white 60%, #d80202 40%);
+}
+
+.card4{
+
+    background-image: linear-gradient(to top, white 60%, #66717b 40%);
+}
+
+.card5{
+
+    background-image: linear-gradient(to top, white 60%, #02d1d8 40%);
+}
